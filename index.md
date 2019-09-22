@@ -1,8 +1,8 @@
 ### 个人信息
-#### Name LinZhang
+#### Name: LinZhang
 ####
-#### School HuNan University
-#### Email edision96@hnu.edu.cn
+#### School: HuNan University
+#### Email: edision96@hnu.edu.cn
 
 ### 实验室成员
 - 导师：陈果(清华大学 博士)
