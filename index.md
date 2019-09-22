@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+###个人信息
+####Name LinZhang
+####
+####School HuNan University
+####Email edision96@hnu.edu.cn
 
-You can use the [editor on GitHub](https://github.com/edision96/linzhang1996.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+###实验室成员
+- 导师：陈果(清华大学 博士)
+- 博士：周清清(湖南大学 在读博士)
+- 硕士：刘艺
+       黄培浩
+       周桂华
+       郭慧勇
+       汪锡峥
+       张潍丰
+       林福生
+       潘念
+###研究方向
+- 计算机网络
+- 机器学习
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###项目研究
+#### 湖南大学(2018.12~2019.6)
+- **基于机器学习的挖掘机质量异常检测**
+随着机械工业制造3.0的来临，对于各种工况设备的异常检测变得越来越热门。基于合作关系，拿到了中国某知名厂家的挖掘机工况数据，利用LSTM(Long Short-Term Memory)对挖掘机数据进行分析，并对接下来挖掘机的状况进行充分的预测，同时利用历史数据生成异常阈值，用来判断挖掘机是否处于异常状态。在其中还加入了剪枝函数的使用。通过最终的实验对比，整体的预测率达到了一个较高的程度。
+#### 湖南大学+Tencent
+- **腾讯犀牛鸟2019年计划——TCPWise项目主要科研人员(2019.9~至今)**
+基于强化学习的智能初始窗口选择和拥塞控制优化，同时利用机器学习来对超时重传值RTO以及对丢包类型的判断进行学习(主要区分拥塞丢包和非拥塞丢包的情况)。本项目计划研究TCPWise系统，基于服务端的用户访问历史数据，通过强化学习的方法，在服务端智能识别用户的网络环境，从而对不同网络环境选择最合适的初始窗口和拥塞控制算法。该方案仅需在服务端做优化，无需对客户端协议栈进行改动。针对改进RTO的值和丢包类型的判断，利用LSTM对其进行判断和不断的学习，最终得到比现有协议和正在投入使用的协议方案更加合理和优异的方案。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/edision96/linzhang1996.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
